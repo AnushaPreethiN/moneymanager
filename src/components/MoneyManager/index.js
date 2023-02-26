@@ -129,6 +129,17 @@ class MoneyManager extends Component {
               Welcome back to your
               <span className="money-manager-text"> Money Manager</span>
             </p>
+            <p className="my-text">
+              WebApp built by AnushaPreethi. <br />
+              To see my LinkedIn Profile
+              <a
+                href="https://www.linkedin.com/in/anu-p/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Click Here
+              </a>
+            </p>
           </div>
           <MoneyDetails
             balanceAmount={balanceAmount}
